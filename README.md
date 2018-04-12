@@ -5,6 +5,8 @@ Classify text with about 20 custom categories.
 
 Using python 3.1
 
+Dataset is the data from the official word2vec website: GoogleNews-vectors-negative300.bin 
+
 Step to Run the code:
 1. Run datacollect.py which collect data from WordNet usinf defined classes.
 2. Run preprocessing.oy which check the effectiveness of the data and seperate training and testing data.
