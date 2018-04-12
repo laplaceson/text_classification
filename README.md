@@ -1,6 +1,8 @@
 # text_classification
 Its a text classification problem solving by simple neural network.
 
+Classify text with about 20 custom categories.
+
 Using python 3.1
 
 Step to Run the code:
